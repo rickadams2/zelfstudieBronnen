@@ -21,10 +21,9 @@ Zelfstudie lijst
 # Audio books
 * 'No Degree, No Problem' by Josh Kemp
 
-
-
-
 # webscraping project
 * repo: 
 * source: https://medium.com/@msalmon00/web-scraping-job-postings-from-indeed-96bd588dcb4b 
 
+ # Software design and architecture
+ * Software Architecture & Design https://www.udacity.com/course/software-architecture-design--ud821
