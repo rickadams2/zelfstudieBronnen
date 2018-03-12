@@ -1,8 +1,11 @@
 # zelfstudieBronnen
 Zelfstudie lijst
 
+**304 Codesets (for the jobinterview :ok_hand:)**
+*repo [https://github.com/rickadams2/CodeSets]
+
 # Rickpedia 
- * [Motiverende CSS speler](https://www.codementor.io/learn-programming/how-to-become-a-developer-resources )
+ * [how-to-become-a-developer-resources (https://www.codementor.io/learn-programming/how-to-become-a-developer-resources )
  * [Bento.io] ( https://bento.io/ )
  * [How to get unstuck / Debug / TDD ](https://codewithoutrules.com/2016/12/08/how-not-to-get-stuck/)
  
